@@ -1,4 +1,5 @@
-<img align="center" alt="GIF" src="./src/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;<br />
+<img align="center" alt="GIF" src="./src/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+<br />
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
