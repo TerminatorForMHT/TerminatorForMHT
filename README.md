@@ -13,13 +13,5 @@
 - ⛺️ I don't like to talk about politics in public, politics can easily lead to disputes. We only exchange knowledge, thank you! ~  
 - 👻 There is too much knowledge to be learned. Let's learn and make progress together ~  
 - 📨 My email address is `wangchenjin-no.1@outlook.com` Welcome to contact me 👏🏻 ~
-<!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
-</picture>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TerminatorForMHT&show_icons=true&theme=graywhite)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TerminatorForMHT)](https://git.io/streak-stats)  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TerminatorForMHT.Python_Auto_Test_Study&left_color=green&right_color=red)
