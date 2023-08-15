@@ -9,4 +9,5 @@
 - 📨 My email address is `wangchenjin-no.1@outlook.com` Welcome to contact me 👏🏻 ~
 <br/>
 <img align="center" alt="GIF" src="./src/code.gif" wight="100%" title="Do what you like, and do it best!">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TerminatorForMHT)](https://git.io/streak-stats) 
