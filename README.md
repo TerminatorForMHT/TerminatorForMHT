@@ -7,5 +7,5 @@
 - ⛺️ I don't like to talk about politics in public, politics can easily lead to disputes. We only exchange knowledge, thank you! ~  
 - 👻 There is too much knowledge to be learned. Let's learn and make progress together ~  
 - 📨 My email address is `wangchenjin-no.1@outlook.com` Welcome to contact me 👏🏻 ~
-<img align="right" alt="GIF" src="./src/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="GIF" src="./src/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TerminatorForMHT)](https://git.io/streak-stats) 
