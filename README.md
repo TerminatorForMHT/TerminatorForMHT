@@ -1,7 +1,7 @@
 <!-- 背景图 -->
 <br />
 <br />
-<img align="right" alt="GIF" src="./src/code.gif" width="300"/>
+<img align="right" alt="GIF" src="./src/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 About Me</h2>
