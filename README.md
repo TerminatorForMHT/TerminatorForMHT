@@ -13,5 +13,4 @@
 - ⛺️ I don't like to talk about politics in public, politics can easily lead to disputes. We only exchange knowledge, thank you! ~  
 - 👻 There is too much knowledge to be learned. Let's learn and make progress together ~  
 - 📨 My email address is `wangchenjin-no.1@outlook.com` Welcome to contact me 👏🏻 ~
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TerminatorForMHT)](https://git.io/streak-stats)  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TerminatorForMHT.Python_Auto_Test_Study&left_color=green&right_color=red)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TerminatorForMHT)](https://git.io/streak-stats) 
