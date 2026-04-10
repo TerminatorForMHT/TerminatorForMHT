@@ -1,12 +1,3 @@
----
-
-# Part 1: English Prompt for Cursor / Claude
-
-下面这份是可以直接复制给 AI 的版本。  
-我尽量按**软件工程式任务说明**写，方便 Cursor / Claude 理解。
-
----
-
 ## Prompt Title
 **Generate a complete Android Studio project for Pixel-style and Nothing-style home screen widgets**
 
